@@ -109,6 +109,7 @@ MAIN MENU
 quit```
 
 
+![programNotes](https://user-images.githubusercontent.com/29801753/145641529-efdfdac5-cf8b-402e-9049-343b73e5119b.jpg)
 
 
 
@@ -116,7 +117,6 @@ quit```
 
 
 
-![alt text](https:![programNotes](https://user-images.githubusercontent.com/29801753/145641326-81b8717d-6f57-4c05-ab6f-c8274f62959f.jpg)
 
 
 
