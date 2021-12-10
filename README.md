@@ -109,7 +109,9 @@ MAIN MENU
 quit```
 
 
-![programNotes](https://user-images.githubusercontent.com/29801753/145641529-efdfdac5-cf8b-402e-9049-343b73e5119b.jpg)
+
+<img height="200" src="C:\Users\GWC-CHC-14\Desktop\programNotes.jpg" width="350"/>
+
 
 
 
