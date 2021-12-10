@@ -104,4 +104,44 @@ MAIN MENU
 2. Type 'history' to view your game history.
 3. Type 'quit' to stop playing.
 
+
+
 quit```
+
+
+
+
+
+
+
+
+
+![IMG_0176](https://user-images.githubusercontent.com/29801753/145640982-e85ca9a3-b28b-42b0-995b-0801fc2ebb7e.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
