@@ -116,9 +116,9 @@ quit```
 
 
 
+![programNotes](https://user-images.githubusercontent.com/29801753/145641326-81b8717d-6f57-4c05-ab6f-c8274f62959f.jpg)
 
 
-![alt text]![IMG_0176](https://user-images.githubusercontent.com/29801753/145640982-e85ca9a3-b28b-42b0-995b-0801fc2ebb7e.jpg)
 
 
 
